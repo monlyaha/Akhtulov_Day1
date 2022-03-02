@@ -1,0 +1,8 @@
+E:\Практика\Prog1\Prog1\bin\Debug\Prog1.exe.config
+E:\Практика\Prog1\Prog1\bin\Debug\Prog1.exe
+E:\Практика\Prog1\Prog1\bin\Debug\Prog1.pdb
+E:\Практика\Prog1\Prog1\obj\Debug\Prog1.csproj.AssemblyReference.cache
+E:\Практика\Prog1\Prog1\obj\Debug\Prog1.csproj.SuggestedBindingRedirects.cache
+E:\Практика\Prog1\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+E:\Практика\Prog1\Prog1\obj\Debug\Prog1.exe
+E:\Практика\Prog1\Prog1\obj\Debug\Prog1.pdb
